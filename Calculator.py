@@ -21,7 +21,7 @@ while True:
     elif opration == '/':
         if number2 != 0:
             div = number1 / number2
-            print(f"division  of two number {number1} + {number2} = {div}")
+            print(f"division  of two number {number1} / {number2} = {div}")
 
         else:
             print("not divide by 0")
